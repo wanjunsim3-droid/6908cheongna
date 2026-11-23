@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /mobile-stream.html
+
+Sitemap: https://wanjunsim3-droid.github.io/6908cheongna/sitemap.xml
